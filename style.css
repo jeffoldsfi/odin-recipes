@@ -1,0 +1,16 @@
+.food {
+    height: auto;
+    width: 750px;
+}
+
+.title {
+    background-color: yellow;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 36px;
+    font-weight: 800;
+}
+
+.recipe {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 900;
+}
